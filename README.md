@@ -1,1 +1,1 @@
-### Hotel Performance Tracking Dashboard
+### **Hotel Performance Tracking Dashboard**
