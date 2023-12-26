@@ -9,6 +9,6 @@
 
 - Database Source: Codebasics.io
 
-- To access and open the Power BI, please click "Power BI Dashboard" folder above and download it for your purpose.
+- To access and open the Power BI, please click "Power_BI_Dashboard" folder above and download it for your purpose.
 - To access the Google Slides presentation: https://docs.google.com/presentation/d/1Sf7sDmLSWiZ-pIaaBNQONpd4iSxCSVhDGIG1S2kDmB0/edit#slide=id.g24236f7b9db_0_112
 - To access the database on Google Spreadsheet: https://docs.google.com/spreadsheets/d/1fYb90JxA88q0Tbc2e8goA5X2bFfooHkS9W3Y1GLDOIY/edit#gid=1569201614
