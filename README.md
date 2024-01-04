@@ -44,6 +44,7 @@
      - Outline actionable steps and recommendations for the management team to implement.
 
 - Expected Outcomes:
+  
   The Hotel Performance Dashboard project aims to empower AtliQ Grands with data-driven insights, enabling them to
   make informed decisions and regain their market share. By incorporating DAX for advanced logic and calculations
   alongside data cleaning, layout design, competitor research, industry comparisons, insightful analysis, effective
