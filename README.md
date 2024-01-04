@@ -12,7 +12,11 @@
   Working as a Data Analyst, my task is to transform these records into a interactive dashboard and meaningful
   insights that others can use to track and drive their action.
 
-- Database Source: Codebasics.io
+- Key Tasks:
+
+  1. Cleaning and Pre-processing (Power Query):
+     - Utilize Power Query to clean and preprocess raw data, ensuring accuracy and reliability.
+     - Address missing values, outliers, and inconsistencies for a robust dataset.
 
 
 - Guideline: 
