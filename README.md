@@ -17,7 +17,38 @@
   1. Cleaning and Pre-processing (Power Query):
      - Utilize Power Query to clean and preprocess raw data, ensuring accuracy and reliability.
      - Address missing values, outliers, and inconsistencies for a robust dataset.
+       
+  2. Layout Designing:
+     - Create an aesthetically pleasing layout for the dashboard, incorporating charts and graphs.
+     - Use visualizations to provide an overview of hotel performance, focusing on key metrics.
+     - Leverage DAX functions for intricate calculations, enhancing the depth of analysis.
 
+  3. Competitor Research:
+     - Conduct thorough research on competitors in the luxury/business hotels category.
+     - Identify their strategies, strengths, and weaknesses to inform AtliQ Grands' decision-making.
+
+  4. Industry Comparisons: We Vs Others:
+     - Compare AtliQ Grands' performance metrics with industry benchmarks and competitors.
+     - Provide a detailed analysis highlighting areas of improvement and competitive advantages.
+
+  5. Provide Insight: Pros and Cons
+     - Extract actionable insights from the data, emphasizing strengths and weaknesses.
+     - Present pros and cons based on performance metrics, customer reviews, and industry standards.
+
+  6. Presentation:
+     - Develop a comprehensive presentation to communicate insights effectively.
+     - Utilize visuals, charts, and graphs to convey key findings and recommendations.
+
+  7. Suggestion:
+     - Provide strategic suggestions based on the analysis to enhance market share and revenue.
+     - Outline actionable steps and recommendations for the management team to implement.
+
+- Expected Outcomes:
+  The Hotel Performance Dashboard project aims to empower AtliQ Grands with data-driven insights, enabling them to
+  make informed decisions and regain their market share. By incorporating DAX for advanced logic and calculations
+  alongside data cleaning, layout design, competitor research, industry comparisons, insightful analysis, effective
+  presentation, and strategic suggestions, the project seeks to position AtliQ Grands for success in the
+  competitive hospitality landscape.
 
 - Guideline: 
 
