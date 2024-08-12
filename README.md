@@ -55,6 +55,6 @@
 
   - To access and open the Power BI, please click "PowerBI_Dashboard" folder above and download it for your purpose.
   - To access the Google Slides presentation:
-    https://docs.google.com/presentation/d/1Sf7sDmLSWiZpIaaBNQONpd4iSxCSVhDGIG1S2kDmB0
+    https://docs.google.com/presentation/d/1Sf7sDmLSWiZ-pIaaBNQONpd4iSxCSVhDGIG1S2kDmB0/edit#slide=id.g285c4f9ea3d_0_21
   - To access the database on Google Spreadsheet:
     https://docs.google.com/spreadsheets/d/1fYb90JxA88q0Tbc2e8goA5X2bFfooHkS9W3Y1GLDOIY
