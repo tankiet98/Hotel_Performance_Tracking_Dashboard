@@ -60,7 +60,7 @@ The dashboard provides:
 
 ## 🔎 How to Access  
 - **Power BI Dashboard**: included in this repository 
-- **Presentation PDF**: `Hotel_Performance_Dashboard.pdf`  
+- **Presentation PDF**: `HotelPerformance_Slides.pdf`  
 
 ---
 
