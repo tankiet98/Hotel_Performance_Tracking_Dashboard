@@ -1,60 +1,71 @@
-### **Hotel Performance Dashboard**
+# 🏨 Hotel Performance Dashboard – Power BI
 
-- Scenario:
-  AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20
-  years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are
-  losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing
-  director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and
-  revenue. However, they do not have an in-house data analytics team to provide them with these insights. For that
-  reason, their revenue management team had decided to hire a 3rd party
-  service provider to provide them with insights from their historical data.
+## 📝 About This Project  
+This project analyzes the performance of **AtliQ Grands**, a luxury hotel chain in India, which has been losing market share and revenue due to intense competition and lack of strategic decisions.  
+Using **Power BI**, the project delivers an **interactive dashboard** to track KPIs, analyze competition, and generate actionable insights for management.  
 
-  Working as a Data Analyst, my task is to transform these records into a interactive dashboard and meaningful
-  insights that others can use to track and drive their action.
+---
 
-- Key Tasks:
+## 📌 Project Overview  
+The dashboard provides:  
+- A **Performance Dashboard** with KPIs such as Revenue, Occupancy, Cancellations, and Ratings.  
+- **Competitor Research & Market Share Analysis** to benchmark AtliQ Grands against rivals in Mumbai, Delhi, Bangalore, and Hyderabad.  
+- **Customer & Room Insights** to understand performance across room types and properties.  
+- Recommendations for **strategic initiatives** such as service quality improvements and new booking models.  
 
-  1. Cleaning and Pre-processing (Power Query):
-     - Utilize Power Query to clean and preprocess raw data, ensuring accuracy and reliability.
-     - Address missing values, outliers, and inconsistencies for a robust dataset.
-       
-  2. Layout Designing:
-     - Create an aesthetically pleasing layout for the dashboard, incorporating charts and graphs.
-     - Use visualizations to provide an overview of hotel performance, focusing on key metrics.
-     - Leverage DAX functions for intricate calculations, enhancing the depth of analysis.
+**Dataset**: Hospitality dataset from *codebasics.io*.  
+**Tools**: Power BI, Power Query, Excel, Google Sheets.  
 
-  3. Competitor Research:
-     - Conduct thorough research on competitors in the luxury/business hotels category.
-     - Identify their strategies, strengths, and weaknesses to inform AtliQ Grands' decision-making.
+---
 
-  4. Industry Comparisons: We Vs Others:
-     - Compare AtliQ Grands' performance metrics with industry benchmarks and competitors.
-     - Provide a detailed analysis highlighting areas of improvement and competitive advantages.
+## 🛠 Tools & Techniques  
+- **Power BI** (interactive dashboard, DAX, Power Query)  
+- **Excel / Google Sheets** (data preparation)  
+- **Data Visualization** (KPIs, Market Share, Competitor Analysis)  
+- **Business Analysis** (Hospitality industry focus)  
 
-  5. Provide Insight: Pros and Cons
-     - Extract actionable insights from the data, emphasizing strengths and weaknesses.
-     - Present pros and cons based on performance metrics, customer reviews, and industry standards.
+---
 
-  6. Presentation:
-     - Develop a comprehensive presentation to communicate insights effectively.
-     - Utilize visuals, charts, and graphs to convey key findings and recommendations.
+## 🔑 Key Insights  
 
-  7. Suggestion:
-     - Provide strategic suggestions based on the analysis to enhance market share and revenue.
-     - Outline actionable steps and recommendations for the management team to implement.
+### 📊 AtliQ Grands Performance  
+- **Revenue Trend**: Peak in May 2022, dip in June (-6.9%), recovery in July.  
+- **Occupancy Rate**: Stable ~52–53%, but Delhi property stands out with **65% occupancy & lowest cancellation (18.5%)**.  
+- **Room Types**:  
+  - Elite (37%) → best seller.  
+  - Presidential (54% occupancy, low rating) → underutilized potential.  
+  - Premium → strong sales but low ratings.  
 
-- Expected Outcomes:
-  
-  The Hotel Performance Dashboard project aims to empower AtliQ Grands with data-driven insights, enabling them to
-  make informed decisions and regain their market share. By incorporating DAX for advanced logic and calculations
-  alongside data cleaning, layout design, competitor research, industry comparisons, insightful analysis, effective
-  presentation, and strategic suggestions, the project seeks to position AtliQ Grands for success in the
-  competitive hospitality landscape.
+### 🏆 Competition Analysis  
+- AtliQ Grands ranks **6th out of 7 competitors**, with ~12.6% market share.  
+- **Mumbai**: Atliq Exotica dominates (~17.5% share).  
+- **Delhi**: Atliq Palace leads; AtliQ Grands property (16558) shows highest growth potential.  
+- **Customer Ratings**: AtliQ Grands averages <3.2, competitors >3.6.  
 
-- Guideline: 
+### 💡 Business Insights  
+- **Delhi property (16558)** is a hidden gem → 4.25 rating, 66% occupancy, lowest cancellations → strong case for investment.  
+- **Service quality issues**: Elite & Premium rooms have low ratings despite high sales.  
+- **Presidential rooms**: high occupancy but weak ratings → missed opportunity.  
+- **Market opportunity**: One-day bookings dominate → introducing **Hourly & Overnight bookings** could differentiate AtliQ Grands.  
 
-  - To access and open the Power BI, please click "PowerBI_Dashboard" folder above and download it for your purpose.
-  - To access the Google Slides presentation:
-    https://docs.google.com/presentation/d/1Sf7sDmLSWiZ-pIaaBNQONpd4iSxCSVhDGIG1S2kDmB0/edit#slide=id.g285c4f9ea3d_0_21
-  - To access the database on Google Spreadsheet:
-    https://docs.google.com/spreadsheets/d/1fYb90JxA88q0Tbc2e8goA5X2bFfooHkS9W3Y1GLDOIY
+---
+
+## 📈 Results  
+- ⚠️ AtliQ Grands is **losing market share** compared to stronger competitors.  
+- 📉 **Low customer ratings** are the primary factor behind declining performance.  
+- 🌍 **Delhi property** is a high-potential asset that can anchor recovery.  
+- 💡 Expanding booking models and improving service quality are key levers for regaining competitiveness.  
+
+---
+
+## 🔎 How to Access  
+- **Power BI Dashboard**: included in this repository 
+- **Presentation PDF**: `Hotel_Performance_Dashboard.pdf`  
+
+---
+
+## 🏁 Conclusion  
+This project demonstrates the value of **Power BI** in the hospitality industry by combining **real-time performance tracking** with **competitive benchmarking**.  
+It highlights both the **challenges (low ratings, shrinking share)** and **opportunities (Delhi property, new booking models)** for AtliQ Grands, showing how data-driven insights can guide strategic decisions.  
+
+---
